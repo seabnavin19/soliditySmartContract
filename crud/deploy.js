@@ -3,8 +3,8 @@ const Web3 = require("web3");
 const { interface, bytecode } = require("./compile");
 
 const provider = new HDWalletProvider(
-  "picnic apart patient saddle start arrow stuff zero train unable ancient file",
-  "https://rinkeby.infura.io/v3/a00241eeb6c3428088f4792177705992"
+  "---12 words of meta mask account---", //   "banana apart patient zero start picnic stuff train arrow unable ancient file"
+  "---rinkeby/test network infura.io instance url---" //  "https://rinkeby.infura.io/v3/a00241eeb6c3428088f5792178805992"
 );
 
 const web3 = new Web3(provider);
