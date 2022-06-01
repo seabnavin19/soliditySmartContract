@@ -20,3 +20,6 @@
 
 ### [CryptoKid (Visoth)](https://github.com/seabnavin19/soliditySmartContract/tree/member/Visoth)
 - This project is mainly focusing on transfer and deposit ethers from one account to another account within a specific time condition . The accoount which deploy this contract will able to add and choose who the might want to transfer and set some specific period of time before that particular account withdraw.
+
+### [Name_Register (Huameng)](https://github.com/seabnavin19/soliditySmartContract/tree/member/Hua-Meng14)
+- Small example of smart contract which is a contract that is used for any form of registration. Example school registration: a teacher role as an admin who is able to add a student name into a student name list.
