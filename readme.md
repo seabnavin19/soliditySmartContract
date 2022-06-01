@@ -20,3 +20,6 @@
 
 ### [CryptoKid (Visoth)](https://github.com/seabnavin19/soliditySmartContract/tree/member/Visoth)
 - This project is mainly focusing on transfer and deposit ethers from one account to another account within a specific time condition . The accoount which deploy this contract will able to add and choose who the might want to transfer and set some specific period of time before that particular account withdraw.
+
+### [CryptoKid (Visoth)](https://github.com/seabnavin19/soliditySmartContract/tree/member/chantha)
+- This project is the small project which i have been learned from youtube and it's focusing on the acount of user that we can increase and decrease the amount of the account user and finally we can get the total of the account
