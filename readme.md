@@ -26,3 +26,5 @@
 
 ### [Counter (Chantha)](https://github.com/seabnavin19/soliditySmartContract/tree/member/chantha)
 - This project is the small project which i have been learned from youtube and it's focusing on the acount of user that we can increase and decrease the amount of the account user and finally we can get the total of the account
+###[A CRUD application (Sreyleak)](https://github.com/seabnavin19/soliditySmartContract/tree/member/Sreyleak)
+- The project(A CRUD application) is talk about how to write an application that creates, reads, updates, and deletes a data record from a 'database' on the blockchain.
